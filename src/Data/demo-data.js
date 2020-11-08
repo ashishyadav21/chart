@@ -14,13 +14,13 @@ feb :{
     male : "47%",
     female : "53%"
    },
-march :{
+mar :{
     total :"3432",
     visited :"1023",
     male : "47%",
     female : "53%"
    },
-April :{
+Apr :{
     total :"2434",
     visited :"1023",
     male : "47%",
@@ -29,7 +29,7 @@ April :{
 May :{
     total :"2343",
     visited :"1232",
-    male : "47",
+    male : "47%",
     female : "53%"
    },
 June :{
@@ -44,7 +44,7 @@ July :{
     male : "23%",
     female : "53%"
    },
-August :{
+Aug :{
     total :"2342",
     visited :"1023",
     male : "47%",
